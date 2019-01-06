@@ -1,0 +1,44 @@
+#header
+{
+	backgroud-color: ;
+	color: ;
+	text-aling:centre;
+	font-size: px;
+} 
+#nav
+{
+	line-height: px;
+	background-color: ;
+	color:white;
+	height: px;
+	width: px;
+	float: left;
+	padding: 5px;
+	font-size: px;
+	text-decoration:none;
+	margin: px;
+}
+#section
+{
+	
+}
+#footer
+{
+	background-color:
+	color:
+	clear: both;
+	text-align: center;
+	padding: px;
+}
+body{
+	background-color:
+}
+img{
+	display:block;
+	margin:auto;
+	clear: right;
+*{
+	text-decoration:none;
+	color:white;
+}
+}
