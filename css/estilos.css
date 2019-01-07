@@ -1,44 +1,34 @@
-#header
+#header /*seccion de cabecera de la pagina web*/
 {
-	backgroud-color: ;
-	color: ;
-	text-aling:centre;
-	font-size: px;
-} 
-#nav
-{
-	line-height: px;
-	background-color: ;
-	color:white;
-	height: px;
-	width: px;
-	float: left;
-	padding: 5px;
-	font-size: px;
-	text-decoration:none;
-	margin: px;
+	font-family:sans-serif;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:20pt;
+	margin: 100px;
 }
+
 #section
 {
-	
+	font-family:monospace;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:20pt;
+	margin: 100px;
 }
-#footer
+
+#footer /*pie de la pagina*/
 {
-	background-color:
-	color:
-	clear: both;
-	text-align: center;
-	padding: px;
+	background-color:orange;
+	font-size:20pt;
+	margin: 100px;
 }
 body{
-	background-color:
+	background-color:#FFE97F;
 }
 img{
-	display:block;
-	margin:auto;
-	clear: right;
-*{
-	text-decoration:none;
-	color:white;
+	vertical-align: top;
+	margin:right;
 }
+h1{
+	background-color:orange;
 }
